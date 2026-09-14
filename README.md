@@ -18,6 +18,7 @@ Top-performing content
 Then you create a dashboard in Power BI/Tableau and use the analysis to recommend better posting times and content strategies.
 
 1. Recommended Project Architecture
+   
                     YouTube
                        |
                        ↓
@@ -45,7 +46,8 @@ Then you create a dashboard in Power BI/Tableau and use the analysis to recommen
              Interactive Dashboard
                        ↓
            Business Recommendations
-2. API or Scraping — Which Should You Use?
+   
+3. API or Scraping — Which Should You Use?
 
 You specifically asked "what about API or scrape?"
 For your project, I recommend:
