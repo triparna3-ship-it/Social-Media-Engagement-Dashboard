@@ -78,22 +78,20 @@ So I wouldn't make Instagram scraping the core of your college project.
 For Instagram in particular, use an official Meta/Instagram API where your use case and account permissions support it, rather than building a scraper designed to bypass restrictions.
 
 3. What About Instagram?
-
 You can make the project platform-independent
-Social Media Engagement Dashboard
 
+ Social Media Engagement Dashboard
           |
     ┌─────┴─────┐
     ↓           ↓
  YouTube     Instagram
     ↓           ↓
- YouTube API  Meta/Instagram API
+YouTube API  Meta/Instagram API
 
 
 But for your first implementation:
 
 YouTube API + Python + Jupyter + Power BI
-
 is the easiest complete version.
 
 4. GitHub Project Structure
