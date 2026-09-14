@@ -81,12 +81,14 @@ For Instagram in particular, use an official Meta/Instagram API where your use c
 
 You can make the project platform-independent
 Social Media Engagement Dashboard
+
           |
     ┌─────┴─────┐
     ↓           ↓
  YouTube     Instagram
     ↓           ↓
  YouTube API  Meta/Instagram API
+
 
 But for your first implementation:
 
